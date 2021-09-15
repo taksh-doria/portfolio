@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: taksh-doria.codes
+Token: 0cf6178cdb61497401f6645da6173dbff4c4eaa96742ecddb1bff9962bc9ee67
