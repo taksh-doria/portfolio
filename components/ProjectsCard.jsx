@@ -19,7 +19,7 @@ const ProjectsCard = ({ data }) => {
 										className="btn-icon"
 										color="github"
 										href={data.link}
-										target="_blank"
+										target={data.link}
 										rel="noopener"
 										aria-label="Github"
 									>
@@ -33,7 +33,7 @@ const ProjectsCard = ({ data }) => {
 										className="btn-icon"
 										color="success"
 										href={data.link}
-										target="_blank"
+										target={data.link}
 										rel="noopener" aria-label="Twitter"
 									>
 										<span className="btn-inner--icon">
