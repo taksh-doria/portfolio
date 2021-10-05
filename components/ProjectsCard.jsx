@@ -15,34 +15,18 @@ const ProjectsCard = ({ data }) => {
 								<h3>{data.name}</h3>
 								<p className="description mt-3">{data.desc}</p>
 								{data.github ? (
-									<a
+									<Button
 										className="btn-icon"
 										color="github"
-										href={data.link}
-										target={data.link}
+										href={data.github}
+										target={data.github}
 										rel="noopener"
 										aria-label="Github"
 									>
 										<span className="btn-inner--icon">
 											<i className="fa fa-github" />
 										</span>
-									</a>
-								) : null}
-								{data.link ? (
-									<a
-										className="btn-icon"
-										color="success"
-										href={data.link}
-										target={data.link}
-										rel="noopener" aria-label="Twitter"
-									>
-										<span className="btn-inner--icon">
-											<i className="fa fa-arrow-right mr-2" />
-										</span>
-										<span className="nav-link-inner--text ml-1">
-											Demo
-										</span>
-									</a>
+									</Button>
 								) : null}
 							</div>
 						</div>
