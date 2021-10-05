@@ -15,7 +15,7 @@ const ProjectsCard = ({ data }) => {
 								<h3>{data.name}</h3>
 								<p className="description mt-3">{data.desc}</p>
 								{data.github ? (
-									<Button
+									<a
 										className="btn-icon"
 										color="github"
 										href={data.link}
@@ -26,10 +26,10 @@ const ProjectsCard = ({ data }) => {
 										<span className="btn-inner--icon">
 											<i className="fa fa-github" />
 										</span>
-									</Button>
+									</a>
 								) : null}
 								{data.link ? (
-									<Button
+									<a
 										className="btn-icon"
 										color="success"
 										href={data.link}
@@ -42,7 +42,7 @@ const ProjectsCard = ({ data }) => {
 										<span className="nav-link-inner--text ml-1">
 											Demo
 										</span>
-									</Button>
+									</a>
 								) : null}
 							</div>
 						</div>
