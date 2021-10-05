@@ -30,7 +30,7 @@ export const skillsSection = {
 			"⚡ Develop highly interactive Front end / User Interfaces for mobile applications"
 		),
 		emoji(
-			"⚡ Make Android and iOS applications along with web applications on java spring framework"
+			"⚡ Make Android and iOS applications using native development frameworks along with web applications on java spring framework"
 		),
 		emoji(
 			"⚡ Integration of third party services such as Firebase/ AdMob / APIs"
@@ -55,8 +55,8 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:java",
 		},
 		{
-			skillName: "reactjs",
-			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+			skillName: "ios",
+			fontAwesomeClassname: "logos:ios",
 		},
 		{
 			skillName: "nodejs",
