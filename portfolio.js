@@ -145,31 +145,18 @@ export const educationInfo = [
 ];
 
 export const experience = [
-	/*{
-		role: "Software Engineer",
-		company: "Google",
+	{
+		role: "Project Intern",
+		company: "ISRO SAC",
 		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		date: "Dec 2021 – Present",
+		desc: "Working on making a Vehicle Tracking System for ISRO under NAD division SAC.",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"NAVIC",
+			"",
 		],
 	},
-	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: "/img/icons/common/github.svg",
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},
-	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},*/
+	
 ];
 
 export const projects = [
