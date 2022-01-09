@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Taksh Doria",
-	title: "Hi all, I'm Taksh",
+	title: "Hello all, I am Taksh Doria",
 	description:
-		"I am a final-year computer engineering student at Dharmsinh Desai University. I am into software development, with an inclination towards backend technologies. I am good at Java and Spring-framework. I like to discuss technologies. I am good at using popular web frameworks such as spring-boot and .Net Core MVC and also at developing mobile applications in Android as well as IOS using native development frameworks.",
+		"I am a final-year computer engineering student at Dharmsinh Desai University. I am tech enthusiast, with an inclination towards backend technologies. I am good at Java and Spring-framework. I like to discuss technologies. I am good at using popular web frameworks such as spring-boot and .Net Core MVC and also at developing mobile applications in Android as well as IOS using native development frameworks.",
 	resumeLink: "https://www.taksh-doria.codes/Taksh_Doria.pdf",
 };
 
