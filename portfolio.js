@@ -151,10 +151,7 @@ export const experience = [
 		companylogo: "/img/icons/common/isro.svg",
 		date: "Dec 2021 – Present",
 		desc: "Working on making a Vehicle Tracking System for ISRO under NAD division SAC.",
-		descBullets: [
-			"NAVIC",
-			"NAD",
-		],
+	
 	},
 	
 ];
