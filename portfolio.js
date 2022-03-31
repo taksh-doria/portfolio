@@ -125,23 +125,23 @@ export const educationInfo = [
 			"CPI 8.23(till 7th sem)",
 			"currently in 8th semester",
 		],
-	},
-	{
-		schoolName: "Sarvodaya Highschool, Ankleshwar",
-		subHeader: "12th Science-(GSHEB)",
-		duration: "March 2018",
-		descBullets: [
-			"Percentage: 85%",
-		],
-	},
-	{
-		schoolName: "Shree Gattu Vidhyalaya, Ankleshwar",
-		subHeader: "10th (SSC)",
-		duration: "March 2016",
-		descBullets: [
-			"Percentage: 76%",
-		],
-	},
+	}
+// 	{
+// 		schoolName: "Sarvodaya Highschool, Ankleshwar",
+// 		subHeader: "12th Science-(GSHEB)",
+// 		duration: "March 2018",
+// 		descBullets: [
+// 			"Percentage: 85%",
+// 		],
+// 	},
+// 	{
+// 		schoolName: "Shree Gattu Vidhyalaya, Ankleshwar",
+// 		subHeader: "10th (SSC)",
+// 		duration: "March 2016",
+// 		descBullets: [
+// 			"Percentage: 76%",
+// 		],
+// 	},
 ];
 
 export const experience = [
@@ -150,7 +150,7 @@ export const experience = [
 		company: "ISRO SAC",
 		companylogo: "/img/icons/common/isro.svg",
 		date: "Dec 2021 – Present",
-		desc: "Working on making a Vehicle Tracking System for ISRO under NAD division SAC.",
+		desc: "Developing a Vehicle Fleet Management System for Space Application Centre(ISRO) under Navigation Application Division(NAD) The system has a backend server using PHP and python along with MySQL database and client-side application using the native android framework. The system focuses on digitizing the existing manual method of managing vehicles at the space application centre along with providing additional functionalities such as real-time tracking and geofencing.",
 	
 	},
 	
