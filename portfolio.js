@@ -149,7 +149,7 @@ export const experience = [
 		role: "Project Intern",
 		company: "ISRO SAC",
 		companylogo: "/img/icons/common/isro.svg",
-		date: "Dec 2021 – Present",
+		date: "Dec 2021 – Apr 2022",
 		desc: "Developing a Vehicle Fleet Management System for Space Application Centre(ISRO) under Navigation Application Division(NAD) The system has a backend server using PHP and python along with MySQL database and client-side application using the native android framework. The system focuses on digitizing the existing manual method of managing vehicles at the space application centre along with providing additional functionalities such as real-time tracking and geofencing.",
 	
 	},
