@@ -122,8 +122,7 @@ export const educationInfo = [
 		subHeader: "Computer Engineering",
 		duration: "July 2018 - May 2022",
 		descBullets: [
-			"CPI 8.23(till 7th sem)",
-			"currently in 8th semester",
+			"CPI 8.23",
 		],
 	}
 // 	{
