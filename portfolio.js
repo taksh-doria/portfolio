@@ -100,7 +100,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: "reactjs",
-			fontAwesomeClassname: "logos:react-icon",
+			fontAwesomeClassname: "logos:reactjs-icon",
 		},
 	],
 };
