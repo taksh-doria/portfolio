@@ -98,6 +98,10 @@ export const skillsSection = {
 			skillName: "docker",
 			fontAwesomeClassname: "logos:docker-icon",
 		},
+		{
+			skillName: "reactjs",
+			fontAwesomeClassname: "logos:react-icon",
+		},
 	],
 };
 
