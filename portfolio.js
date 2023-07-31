@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Taksh Doria",
 	title: "Hello all, I am Taksh Doria",
 	description:
-		"I am a final-year computer engineering student at Dharmsinh Desai University. I am tech enthusiast, with an inclination towards backend technologies. I am good at Java and Spring-framework. I like to discuss technologies. I am good at using popular web frameworks such as spring-boot and .Net Core MVC and also at developing mobile applications in Android as well as IOS using native development frameworks.",
+		"I am a driven and innovative Software Developer with a passion for crafting meaningful solutions through technology. With a proven track record of [mention a notable achievement or key skill], I thrive on taking up challenges and transforming ideas into reality. Exploring the intersection of Backend/Cloud Technologies, I am on a mission to make a positive impact in the world through my work.",
 	resumeLink: "https://www.taksh-doria.codes/Taksh_Doria.pdf",
 };
 
@@ -122,6 +122,11 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
+		schoolName: "Dalhousie University",
+		subHeader: "Master of Applied Computer Science",
+		duration: "July 2018 - May 2022",
+	},
+	{
 		schoolName: "Dharmsinh Desai University",
 		subHeader: "Computer Engineering",
 		duration: "July 2018 - May 2022",
@@ -149,13 +154,19 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Project Intern",
-		company: "ISRO SAC",
+		role: "Software Developer Intern",
+		company: "Indian Space Research Organisation",
 		companylogo: "/img/icons/common/isro.svg",
 		date: "Dec 2021 – Apr 2022",
-		desc: "Developing a Vehicle Fleet Management System for Space Application Centre(ISRO) under Navigation Application Division(NAD) The system has a backend server using PHP and python along with MySQL database and client-side application using the native android framework. The system focuses on digitizing the existing manual method of managing vehicles at the space application centre along with providing additional functionalities such as real-time tracking and geofencing.",
-	
+		desc: "Collaborated with Navigation Application Division(NAD) team to develop Vehicle Fleet Management System. Developed REST API endpoints using PHP, implemented server-side ETL process scripts with Python, and designed a client-side mobile application for Android using Java. Integrated Mapbox libraries to enable advanced functionalities like geofencing and real-time tracking, resulting in a significant 40% reduction in unauthorized vehicle usage and improved operational efficiency. Conducted testing and debugging of application, fixing software defects resulting in 20% decrease in application crashes. Streamlined overall efficiency by implementing a state-of-the-art solution, leading to a remarkable 50% decrease in manual record- keeping time and replacing outdated manual record-keeping systems.",
 	},
+	{
+		role: "Intern",
+		company: "Angat Hr Solutions",
+		companylogo: "",
+		date: "Jan 2021 – Apr 2021",
+		desc: "• Developed Python automation scripts to extract data from Excel sheets and perform data preprocessing tasks efficiently. Integrated SQL databases using Python libraries to securely store the preprocessed data, enabling seamless data management. Optimized automation scripts with parallel processing techniques, resulting in a 50% reduction in data processing time",
+	}
 	
 ];
 
