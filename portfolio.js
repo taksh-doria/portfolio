@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Taksh Doria",
 	title: "Hello all, I am Taksh Doria",
 	description:
-		"I am a driven and innovative Software Developer with a passion for crafting meaningful solutions through technology. With a proven track record of [mention a notable achievement or key skill], I thrive on taking up challenges and transforming ideas into reality. Exploring the intersection of Backend/Cloud Technologies, I am on a mission to make a positive impact in the world through my work.",
+		"I am a driven and innovative Software Developer with a passion for crafting meaningful solutions through technology. I thrive on taking up challenges and transforming ideas into reality. Exploring the intersection of Backend/Cloud Technologies, I am on a mission to make a positive impact in the world through my work.",
 	resumeLink: "https://www.taksh-doria.codes/Taksh_Doria.pdf",
 };
 
