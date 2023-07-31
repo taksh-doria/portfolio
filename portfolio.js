@@ -124,7 +124,7 @@ export const educationInfo = [
 	{
 		schoolName: "Dalhousie University",
 		subHeader: "Master of Applied Computer Science",
-		duration: "July 2018 - May 2022",
+		duration: "July 2022 - May 2024",
 	},
 	{
 		schoolName: "Dharmsinh Desai University",
@@ -159,7 +159,7 @@ export const experience = [
 	{
 		role: "Intern",
 		company: "Angat Hr Solutions",
-		companylogo: "",
+		companylogo: "/img/icons/",
 		date: "Jan 2021 – Apr 2021",
 	}
 	
