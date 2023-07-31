@@ -130,9 +130,6 @@ export const educationInfo = [
 		schoolName: "Dharmsinh Desai University",
 		subHeader: "Computer Engineering",
 		duration: "July 2018 - May 2022",
-		descBullets: [
-			"CPI 8.23",
-		],
 	}
 // 	{
 // 		schoolName: "Sarvodaya Highschool, Ankleshwar",
@@ -158,14 +155,12 @@ export const experience = [
 		company: "Indian Space Research Organisation",
 		companylogo: "/img/icons/common/isro.svg",
 		date: "Dec 2021 – Apr 2022",
-		desc: "Collaborated with Navigation Application Division(NAD) team to develop Vehicle Fleet Management System. Developed REST API endpoints using PHP, implemented server-side ETL process scripts with Python, and designed a client-side mobile application for Android using Java. Integrated Mapbox libraries to enable advanced functionalities like geofencing and real-time tracking, resulting in a significant 40% reduction in unauthorized vehicle usage and improved operational efficiency. Conducted testing and debugging of application, fixing software defects resulting in 20% decrease in application crashes. Streamlined overall efficiency by implementing a state-of-the-art solution, leading to a remarkable 50% decrease in manual record- keeping time and replacing outdated manual record-keeping systems.",
 	},
 	{
 		role: "Intern",
 		company: "Angat Hr Solutions",
 		companylogo: "",
 		date: "Jan 2021 – Apr 2021",
-		desc: "• Developed Python automation scripts to extract data from Excel sheets and perform data preprocessing tasks efficiently. Integrated SQL databases using Python libraries to securely store the preprocessed data, enabling seamless data management. Optimized automation scripts with parallel processing techniques, resulting in a 50% reduction in data processing time",
 	}
 	
 ];
