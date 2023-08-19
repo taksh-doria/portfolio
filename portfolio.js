@@ -159,7 +159,7 @@ export const experience = [
 	{
 		role: "Intern",
 		company: "Angat Hr Solutions",
-		companylogo: "/img/icons/",
+		companylogo: "",
 		date: "Jan 2021 – Apr 2021",
 	}
 	
