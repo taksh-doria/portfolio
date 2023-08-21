@@ -27,13 +27,13 @@ export const skillsSection = {
 		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for mobile applications"
+			"Develop highly interactive Front end / User Interfaces for mobile applications"
 		),
 		emoji(
-			"⚡ Make Android and iOS applications using native development frameworks along with web applications on java spring framework"
+			"Make Android and iOS applications using native development frameworks along with web applications on java spring framework"
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ AdMob / APIs"
+			"Integration of third party services such as Firebase/ AdMob / APIs"
 		),
 	],
 
