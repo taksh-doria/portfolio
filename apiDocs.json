@@ -1,0 +1,71 @@
+{
+    "openapi": "3.0.3", 
+    "info": {
+      "title": "Koch Backend API", 
+      "description": "API endpoints for Koch App backend services.",
+      "version": "1.0.0",
+      "contact": {
+        "name": "Taksh Doria", 
+        "email": "test@web.com",
+        "url": "web.com"
+      }
+    },
+    "servers":[{
+        "url":"http://localhost:3000",
+        "description":"This is the url for test api."
+    }],
+    "paths":{
+        "/":{
+            "get":{
+                "summary":"Returns Hello World",
+                "description":"This is the base endpoint for the api that returns hello world.",
+                "responses":{
+                    "200":{
+                        "description":"Returns hello world.",
+                        "content":{
+                            "text/html":{
+                                "example":"Hello World"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/testPost":{
+            "post":{
+                "summary":"Test Post",
+                "description":"This is test post request endpoint requires data with email porpoerty",
+                "requestBody":{
+                    "description":"Requires object with email property",
+                    "content":{
+                        "application/json":{
+                            "example":{
+                                "email":"test.email@gmail.com"
+                            }
+                        }
+                    }
+                },
+                "responses":{
+                    "200":{
+                        "description":"Returns data json object",
+                        "content":{
+                            "application/json":{
+                                "example":{
+                                    "email":"test.email@gmail.com"
+                                }
+                            }
+                        }
+                    },
+                    "401":{
+                        "description":"Error due to invalid requets body",
+                        "content":{
+                            "text/html":{
+                                "example":"Request Body not found."
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
