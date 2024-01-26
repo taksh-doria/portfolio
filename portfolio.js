@@ -165,7 +165,7 @@ export const experience = [
 	{
 		role: "Application Developer Student",
 		company: "Koch Platform",
-		companylogo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD560BAQEMdaRk3RRYxA%2Fcompany-logo_200_200%2F0%2F1699463142289%2Fkch_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3Dtredp_ea_I93nHbQCcu07BjIx-Pe74cRzVb7BH47918&tbnid=zSGLEcYv87FyrM&vet=12ahUKEwjW2qO8xPuDAxXwF1kFHZ1VB0cQMygCegQIARA3..i&imgrefurl=https%3A%2F%2Fca.linkedin.com%2Fcompany%2Fk%25C5%258Dch&docid=UiH49Wtv_cM9eM&w=200&h=200&q=mykoch.app&ved=2ahUKEwjW2qO8xPuDAxXwF1kFHZ1VB0cQMygCegQIARA3",
+		companylogo: "/img/icons/common/Koch.jpeg",
 		date: "Sep 2023 – present",
 	}
 	
