@@ -112,11 +112,11 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Frontend",
-		progressPercentage: "50",
+		progressPercentage: "70",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "70",
+		progressPercentage: "90",
 	},
 ];
 
@@ -161,6 +161,12 @@ export const experience = [
 		company: "Angat Hr Solutions",
 		companylogo: "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200",
 		date: "Jan 2021 – Apr 2021",
+	},
+	{
+		role: "Application Developer Student",
+		company: "Koch Platform",
+		companylogo: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD560BAQEMdaRk3RRYxA%2Fcompany-logo_200_200%2F0%2F1699463142289%2Fkch_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3Dtredp_ea_I93nHbQCcu07BjIx-Pe74cRzVb7BH47918&tbnid=zSGLEcYv87FyrM&vet=12ahUKEwjW2qO8xPuDAxXwF1kFHZ1VB0cQMygCegQIARA3..i&imgrefurl=https%3A%2F%2Fca.linkedin.com%2Fcompany%2Fk%25C5%258Dch&docid=UiH49Wtv_cM9eM&w=200&h=200&q=mykoch.app&ved=2ahUKEwjW2qO8xPuDAxXwF1kFHZ1VB0cQMygCegQIARA3",
+		date: "Sep 2023 – present",
 	}
 	
 ];
@@ -168,7 +174,7 @@ export const experience = [
 export const projects = [
 	{
 		name: "xApeture - Stock Photography Platform",
-		desc: "An stock photography sharing platform used to share stock photos accross the internet and also to use liscence free photos shared by others on platform free of cost. Built using native android framework along with firebase for authentication and maintaining required database and storage.",
+		desc: "Led design and development of an Android stock photography platform with essential features, seamless login experience, and increased user retention. Implemented optimized image data management in Firebase Firestore, achieving 60% faster database response time. Incorporated Node.js cloud functions to compress images by 70%, improving platform performance and reducing image loading time by 30%.",
 		github: "https://github.com/taksh-doria/xAperture.git",
 	},
 	{
@@ -177,8 +183,8 @@ export const projects = [
 		github: "https://github.com/taksh-doria/findmyfood.git",
 	},
 	{
-		name: "E-voting Portal",
-		desc: "A blockchain-based voting portal made using solidity language for scripting smart contract and deploying it on Rinkeby test network providing utmost security and accurate calculation of votes with transparency The backend web application use spring framework, MySQL, with frontend in Html/CSS along with web3j library for Ethereum.",
+		name: "Trivia Titans – AWS and GCP based Serverless Trivia Game",
+		desc: "Crafted a cutting-edge game using AWS and GCP serverless Cloud Services: AWS API Gateway, Lambda, GCP CloudFunctions. The services were kept decoupled via AWS SQS, SNS, GCP Pub/Sub. DynamoDB, Firestore handled data, GCP NL API enriched question tags. User federation used AWS Cognito. For OLAP purposes, BigQuery, GCP Looker Studio, frontend hosted on GCP Cloud Run via Docker, ensuring a dynamic gaming experience.",
 		github: "https://github.com/taksh-doria/VotersPortal",
 	},
 	{
