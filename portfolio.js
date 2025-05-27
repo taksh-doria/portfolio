@@ -160,7 +160,19 @@ export const experience = [
 		role: "Application Developer Student",
 		company: "Koch Platform",
 		companylogo: "/img/icons/common/Koch.jpeg",
-		date: "Sep 2023 – present",
+		date: "Sep 2023 – Feb 2024",
+	},
+		{
+		role: "Application Developer",
+		company: "Koch Platform",
+		companylogo: "/img/icons/common/Koch.jpeg",
+		date: "Feb 2024 - Jul 2024",
+	},
+		{
+		role: "Research Assistant",
+		company: "Dalhousie University",
+		companylogo: "/img/icons/common/dallogo.png",
+		date: "Jul 2024 – present",
 	}
 	
 ];
